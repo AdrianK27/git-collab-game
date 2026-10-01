@@ -1,5 +1,5 @@
 # Moduł logiki
 
-Odpowiedzialny: LOGIN_OSOBY_B
+Odpowiedzialny: Olinek
 Stan: GOTOWY
 Opis zmiany: Dodano walidację danych wejściowych.

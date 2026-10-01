@@ -1,5 +1,5 @@
 # Moduł interfejs
 
-Odpowiedzialny: NIEPRZYDZIELONY
-Stan: NIEGOTOWY
-Opis zmiany: BRAK
+Odpowiedzialny: Adrian Kramarz
+Stan: Gotowy
+Opis zmiany: Dodanie osoby odpowiedzialnej
